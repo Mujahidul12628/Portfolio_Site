@@ -1,0 +1,15 @@
+#profile-div {
+    background-color: rgb(4, 207, 207, 0.1);
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+}
+
+.instagram-logo {
+
+    font-size: 72px;
+    background: -webkit-linear-gradient(#cd1f1f, #9d44f0, #d51961, #efc050);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+
+
+}
