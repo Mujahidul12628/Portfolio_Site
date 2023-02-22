@@ -9,7 +9,18 @@
     background: -webkit-linear-gradient(#cd1f1f, #9d44f0, #d51961, #efc050);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+}
 
+::-webkit-scrollbar {
+    width: 6px;
+}
 
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px rgb(11, 133, 157);
+}
 
+::-webkit-scrollbar-thumb {
+
+    background-color: #19c6dd;
+    border-radius:
 }
